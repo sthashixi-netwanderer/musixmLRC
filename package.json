@@ -1,5 +1,5 @@
 {
-  "name": "musixmLRC",
+  "name": "musixmlrc",
   "version": "1.0.0",
   "description": "Fetch synced lyrics from Musixmatch and save as .lrc files",
   "type": "module",
